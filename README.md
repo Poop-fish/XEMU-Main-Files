@@ -1,14 +1,10 @@
 # XEMU-Main-Files
 
-- Go to **Releases** and download Zip file 👉 [Download Latest Release] (https://github.com/Poop-fish/XEMU-Main-Files/releases/tag/Xemu)
- 
-- Extract Zip 
-
-- start up xemu
-
-- load the files
-
--  Restart then Load your Game
+- Go to **[Latest Release](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)** and download the Zip file  
+- Extract Zip  
+- Start up Xemu  
+- Load the files  
+- Restart then Load your Game  
 
 ---
  
