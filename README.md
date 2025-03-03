@@ -1,6 +1,6 @@
 # XEMU-Main-Files
 
-- Go to **Releases** and download Zip file
+- Go to **Releases** and download Zip file 👉 [Download Latest Release] (https://github.com/Poop-fish/XEMU-Main-Files/releases/tag/Xemu)
  
 - Extract Zip 
 
