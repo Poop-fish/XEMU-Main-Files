@@ -1,6 +1,6 @@
 # XEMU-Main-Files
 
-- Go to **[Latest Release](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)** and download the Zip file  
+- Go to **[Latest Release](https://github.com/Poop-fish/XEMU-Main-Files/releases/tag/Xemu)** and download the Zip file  
 - Extract Zip  
 - Start up Xemu  
 - Load the files  
