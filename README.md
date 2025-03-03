@@ -1,5 +1,7 @@
 # XEMU-Main-Files
 
+- Go to Releases and download Zip file
+ 
 - Extract Zip 
 
 - start up xemu
